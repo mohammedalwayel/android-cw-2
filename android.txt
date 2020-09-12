@@ -1,13 +1,12 @@
-public class HelloWorld{
+
 
      public static void main(String []args){
         System.out.println("Hello World");
      
     
-     
-       
 
-    
+    int c =3 ;
+    int v = 4 ;
      
      
      
@@ -19,8 +18,10 @@ public class HelloWorld{
      
      }
      public static void mohammed() {
-       
+     
      for(int i=1; i<=10; i++){
+     if (i !=  5)  
+     
        System.out.println(i);
      }
     
@@ -29,4 +30,5 @@ public class HelloWorld{
      }
      
      }    
+     
      
